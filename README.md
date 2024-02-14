@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravin</h1>
 <h3 align="center">A passionate Full Stack Developer(MERN), I have recently graduated and completed a certified full stack course in IITM, Guvi, Chennai. Now I'm looking for a job</h3>
 
+- 👨‍💻 Portfolio [https://ravin-portfolio.netlify.app](https://ravin-portfolio.netlify.app)
+
+  
 - 🔭 First full stack project [Mail System](https://main--incredible-cannoli-8bf71b.netlify.app)
 
 - 🔭 Second full stack project [Notes Taking Application](https://timely-tapioca-6da940.netlify.app)
@@ -9,7 +12,7 @@
   
 - 🔭 Fourth full stack project [Store App](https://main--frabjous-gingersnap-19bd8d.netlify.app)
 
-- 👨‍💻 Portfolio [https://ravin-portfolio.netlify.app](https://ravin-portfolio.netlify.app)
+
 
  - 🌱 I’m currently learning **TypeScript, AWS, React Native**
 
